@@ -1,9 +1,14 @@
-# api documentation for  [gulp-prettify (v0.5.0)](https://github.com/jonschlinkert/gulp-prettify)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-prettify.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-prettify) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-prettify.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-prettify)
+# npmdoc-gulp-prettify
+
+#### api documentation for  [gulp-prettify (v0.5.0)](https://github.com/jonschlinkert/gulp-prettify)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-prettify.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-prettify) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-prettify.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-prettify)
+
 #### Prettify, format, beautify HTML.
 
-[![NPM](https://nodei.co/npm/gulp-prettify.png?downloads=true)](https://www.npmjs.com/package/gulp-prettify)
+[![NPM](https://nodei.co/npm/gulp-prettify.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-prettify)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-gulp-prettify/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-gulp-prettify_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-gulp-prettify/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-gulp-prettify/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-gulp-prettify/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-gulp-prettify/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-gulp-prettify/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-gulp-prettify/build/screenCapture.npmPackageListing.svg)
 
@@ -65,17 +70,14 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "jonschlinkert",
-            "email": "github@sellside.com"
+            "name": "jonschlinkert"
         },
         {
-            "name": "doowb",
-            "email": "brian.woodward@gmail.com"
+            "name": "doowb"
         }
     ],
     "name": "gulp-prettify",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/jonschlinkert/gulp-prettify.git"
@@ -106,16 +108,6 @@
     "version": "0.5.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module gulp-prettify](#apidoc.module.gulp-prettify)
-
-
-
-# <a name="apidoc.module.gulp-prettify"></a>[module gulp-prettify](#apidoc.module.gulp-prettify)
 
 
 
